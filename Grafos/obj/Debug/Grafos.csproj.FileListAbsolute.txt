@@ -1,0 +1,14 @@
+C:\Users\corci\Downloads\PED-Recorrido-grafos-main\PED-Recorrido-grafos-main\Grafos\bin\Debug\Grafos.exe.config
+C:\Users\corci\Downloads\PED-Recorrido-grafos-main\PED-Recorrido-grafos-main\Grafos\bin\Debug\Grafos.exe
+C:\Users\corci\Downloads\PED-Recorrido-grafos-main\PED-Recorrido-grafos-main\Grafos\bin\Debug\Grafos.pdb
+C:\Users\corci\Downloads\PED-Recorrido-grafos-main\PED-Recorrido-grafos-main\Grafos\obj\Debug\Grafos.csproj.AssemblyReference.cache
+C:\Users\corci\Downloads\PED-Recorrido-grafos-main\PED-Recorrido-grafos-main\Grafos\obj\Debug\Grafos.EliminarArco.resources
+C:\Users\corci\Downloads\PED-Recorrido-grafos-main\PED-Recorrido-grafos-main\Grafos\obj\Debug\Grafos.EliminarVertice.resources
+C:\Users\corci\Downloads\PED-Recorrido-grafos-main\PED-Recorrido-grafos-main\Grafos\obj\Debug\Grafos.Properties.Resources.resources
+C:\Users\corci\Downloads\PED-Recorrido-grafos-main\PED-Recorrido-grafos-main\Grafos\obj\Debug\Grafos.Simulator.resources
+C:\Users\corci\Downloads\PED-Recorrido-grafos-main\PED-Recorrido-grafos-main\Grafos\obj\Debug\Grafos.Peso.resources
+C:\Users\corci\Downloads\PED-Recorrido-grafos-main\PED-Recorrido-grafos-main\Grafos\obj\Debug\Grafos.Vertice.resources
+C:\Users\corci\Downloads\PED-Recorrido-grafos-main\PED-Recorrido-grafos-main\Grafos\obj\Debug\Grafos.csproj.GenerateResource.cache
+C:\Users\corci\Downloads\PED-Recorrido-grafos-main\PED-Recorrido-grafos-main\Grafos\obj\Debug\Grafos.csproj.CoreCompileInputs.cache
+C:\Users\corci\Downloads\PED-Recorrido-grafos-main\PED-Recorrido-grafos-main\Grafos\obj\Debug\Grafos.exe
+C:\Users\corci\Downloads\PED-Recorrido-grafos-main\PED-Recorrido-grafos-main\Grafos\obj\Debug\Grafos.pdb
